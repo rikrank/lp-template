@@ -1,0 +1,15 @@
+<svg id="やじるし" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" viewBox="0 0 11 11">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="楕円形_6" data-name="楕円形 6" cx="5.5" cy="5.5" r="5.5" transform="translate(127 6855)" fill="#7c7973"/>
+    </clipPath>
+  </defs>
+  <circle id="楕円形_5" data-name="楕円形 5" cx="5.5" cy="5.5" r="5.5" fill="#7c7973"/>
+  <g id="マスクグループ_31" data-name="マスクグループ 31" transform="translate(-127 -6855)" clip-path="url(#clip-path)">
+    <rect id="長方形_67" data-name="長方形 67" width="9" height="1" rx="0.5" transform="translate(126 6860)" fill="#fff"/>
+  </g>
+  <g id="グループ_72" data-name="グループ 72" transform="translate(-122 -6858)">
+    <rect id="長方形_68" data-name="長方形 68" width="5" height="1" rx="0.5" transform="translate(127.5 6859.964) rotate(45)" fill="#fff"/>
+    <rect id="長方形_69" data-name="長方形 69" width="1" height="5" rx="0.5" transform="translate(130.328 6862.793) rotate(45)" fill="#fff"/>
+  </g>
+</svg>

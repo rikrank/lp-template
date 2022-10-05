@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="31" viewBox="0 0 26 31">
+  <g id="グループ_39" data-name="グループ 39" transform="translate(-73 -3509)">
+    <rect id="長方形_52" data-name="長方形 52" width="26" height="23" transform="translate(73 3509)" fill="#bf0f0f"/>
+    <path id="パス_37" data-name="パス 37" d="M0,0H26L0,8Z" transform="translate(73 3532)" fill="#bf0f0f"/>
+    <path id="パス_38" data-name="パス 38" d="M26,0H0L26,8Z" transform="translate(73 3532)" fill="#bf0f0f"/>
+    <text id="Up" transform="translate(75 3531)" fill="#fff" font-size="10" font-family="NotoSerifJP-Bold, Noto Serif JP" font-weight="700"><tspan x="0" y="0">Up</tspan></text>
+    <text id="Pick" transform="translate(75 3521)" fill="#fff" font-size="10" font-family="NotoSerifJP-Bold, Noto Serif JP" font-weight="700"><tspan x="0" y="0">Pick</tspan></text>
+  </g>
+</svg>

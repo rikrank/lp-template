@@ -1,0 +1,9 @@
+{
+  "dest": "./dist/global/",
+  "mode": {
+    "symbol": {
+      "dest": "icon",
+      "sprite": "sprite.svg"
+    }
+  }
+}
