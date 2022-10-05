@@ -1,5 +1,5 @@
 {
-  "dest": "./dist/global/",
+  "dest": "./dist/common/",
   "mode": {
     "symbol": {
       "dest": "icon",
